@@ -18,6 +18,13 @@
 
 <br />
 
+<div align="center">
+<img src="https://img.shields.io/badge/STATUS-BUILDING%20AI%20SYSTEMS-22d3ee?style=for-the-badge&labelColor=020617" alt="Building AI systems" />
+<img src="https://img.shields.io/badge/OPEN%20TO-TECHNICAL%20COLLABORATION-38bdf8?style=for-the-badge&labelColor=020617" alt="Open to technical collaboration" />
+</div>
+
+<br />
+
 <table align="center">
 <tr>
 <td align="center" width="180"><b>3+ YEARS</b><br /><sub>Professional Experience</sub></td>
@@ -26,6 +33,12 @@
 <td align="center" width="180"><b>ENTERPRISE</b><br /><sub>Product Experience</sub></td>
 </tr>
 </table>
+
+<div align="center">
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=dikshantchitara&theme=tokyonight" width="96%" alt="GitHub profile contribution overview" />
+
+</div>
 
 ## ⚡ About me
 
@@ -82,6 +95,22 @@ I build enterprise applications, real-time platforms, developer tools, and AI-po
 
 Codebase Intelligence is an enterprise platform for **understanding, analyzing, documenting, and navigating large codebases**. It uses **CodeWiki** as its primary code-understanding and documentation engine and combines retrieval, graph relationships, AI orchestration, and production infrastructure.
 
+```mermaid
+flowchart LR
+    U[Developer] --> UI[Next.js + React workspace]
+    UI --> O[AI orchestration]
+    O --> R[RAG + vector search]
+    O --> G[Code graph]
+    R --> D[(Oracle Vector Search)]
+    G --> P[(Oracle Property Graph)]
+    O --> M[Model providers]
+    M --> C[Claude]
+    M --> OpenAI[OpenAI]
+    M --> B[Amazon Bedrock]
+    UI --> Obs[Observability]
+    Obs --> CW[CloudWatch + OpenTelemetry]
+```
+
 <table>
 <tr>
 <td valign="top" width="50%">
@@ -113,6 +142,12 @@ OpenTelemetry · CloudWatch · Pytest · Vitest · Playwright
 </tr>
 </table>
 
+<div align="center">
+<img src="https://img.shields.io/badge/FRONTEND-REACT%20%2B%20NEXT.JS-61DAFB?style=for-the-badge&logo=react&logoColor=0f172a" alt="React and Next.js frontend" />
+<img src="https://img.shields.io/badge/AI-LANGGRAPH%20%2B%20RAG-8B5CF6?style=for-the-badge&logo=python&logoColor=white" alt="LangGraph and RAG AI systems" />
+<img src="https://img.shields.io/badge/INFRASTRUCTURE-AWS%20%2B%20TERRAFORM-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white" alt="AWS and Terraform infrastructure" />
+</div>
+
 ## 🧰 Technical toolbox
 
 <div align="center">
@@ -142,6 +177,10 @@ OpenTelemetry · CloudWatch · Pytest · Vitest · Playwright
 
 ## 🚀 Selected work
 
+<div align="center">
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=18&duration=2600&pause=800&color=38BDF8&center=true&vCenter=true&width=700&lines=Selected+systems%2C+tools%2C+and+experiments;Built+to+solve+real+engineering+problems" alt="Animated selected work heading" />
+</div>
+
 <table>
 <tr>
 <td width="50%" valign="top">
@@ -169,6 +208,12 @@ OpenTelemetry · CloudWatch · Pytest · Vitest · Playwright
 </tr>
 </table>
 
+<div align="center">
+<a href="https://github.com/dikshantchitara/CodePilot-AI-Client"><img src="https://img.shields.io/github/stars/dikshantchitara/CodePilot-AI-Client?style=flat-square&color=38bdf8&label=CodePilot%20Client%20stars" alt="CodePilot Client stars" /></a>
+<a href="https://github.com/dikshantchitara/AI-Latex-Resume_updater-"><img src="https://img.shields.io/github/stars/dikshantchitara/AI-Latex-Resume_updater-?style=flat-square&color=8b5cf6&label=Resume%20AI%20stars" alt="Resume AI stars" /></a>
+<a href="https://github.com/dikshantchitara/leetcode-daily-ai"><img src="https://img.shields.io/github/actions/workflow/status/dikshantchitara/leetcode-daily-ai/daily-solver.yml?style=flat-square&label=LeetCode%20automation" alt="LeetCode Daily AI workflow status" /></a>
+</div>
+
 ## 🎓 Education
 
 <table align="center">
@@ -189,6 +234,14 @@ Continuous engineering growth
 </td>
 </tr>
 </table>
+
+## 🌐 Engineering signals
+
+<div align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=dikshantchitara&bg_color=020617&color=67e8f9&line=0ea5e9&point=ffffff&area=true&hide_border=true&custom_title=Contribution%20activity" width="96%" alt="GitHub contribution activity graph" />
+
+</div>
 
 ## 📊 Engineering activity
 
@@ -223,6 +276,8 @@ Continuous engineering growth
 
 <div align="center">
 <img src="https://komarev.com/ghpvc/?username=dikshantchitara&label=PROFILE+VIEWS&color=06b6d4&style=for-the-badge" alt="Profile views" />
+<br /><br />
+<img src="https://img.shields.io/badge/MADE%20WITH-REACT%20%2B%20NODE%20%2B%20AI-06b6d4?style=for-the-badge&logo=github&logoColor=white" alt="Made with React, Node and AI" />
 <br /><br />
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:06b6d4,50:172554,100:020617&height=120&section=footer" width="100%" alt="" />
 </div>
