@@ -1,152 +1,228 @@
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0b1120,45:172554,100:0891b2&height=230&section=header&text=Dikshant%20Chitara&fontSize=54&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Full%20Stack%20Software%20Engineer%20%7C%20MERN%20%7C%20AI%20Engineering&descAlignY=62&descSize=17" alt="Dikshant Chitara — Full Stack Software Engineer" width="100%" />
-</p>
+<div align="center">
 
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&duration=2800&pause=900&color=22D3EE&center=true&vCenter=true&width=780&lines=Building+enterprise+applications+and+AI-powered+products;MERN+Stack+%7C+Backend+Architecture+%7C+Distributed+Systems;Turning+complex+systems+into+useful+developer+experiences" alt="Animated professional focus statement" />
-</p>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:020617,35:172554,70:0369a1,100:06b6d4&height=240&section=header&text=DIKSHANT%20CHITARA&fontSize=54&fontColor=ffffff&fontAlignY=38&animation=fadeIn&desc=FULL%20STACK%20SOFTWARE%20ENGINEER%20%E2%80%A2%20MERN%20%E2%80%A2%20AI%20ENGINEERING&descAlignY=62&descSize=16" width="100%" alt="Animated Dikshant Chitara header" />
 
-<p align="center">
-  <a href="https://dikshantchitara.github.io/Dikshant-Chitara-Portfolio/"><img src="https://img.shields.io/badge/Portfolio-0891b2?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Portfolio" /></a>
-  <a href="https://www.linkedin.com/in/dikshantchitara/"><img src="https://img.shields.io/badge/LinkedIn-1d4ed8?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
-  <a href="mailto:dikshantchitara27@gmail.com"><img src="https://img.shields.io/badge/Email-0f172a?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
-  <a href="https://github.com/dikshantchitara?tab=followers"><img src="https://img.shields.io/github/followers/dikshantchitara?style=for-the-badge&color=0891b2&label=Followers" alt="GitHub followers" /></a>
-</p>
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=21&duration=2400&pause=700&color=22D3EE&center=true&vCenter=true&width=850&lines=3%2B+years+of+building+enterprise+software;MERN+%7C+AI+Engineering+%7C+Distributed+Systems;Designing+systems+that+are+useful%2C+observable%2C+and+scalable" alt="Animated professional tagline" />
 
-## About me
+<br />
 
-I’m **Dikshant Chitara**, a **Full Stack Software Engineer with 3+ years of experience** building enterprise applications, developer tools, AI-enabled workflows, and real-time systems.
+<img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="360" alt="Animated developer coding at a computer" />
 
-My primary application stack is **MERN**. I work across frontend architecture, backend services, API design, data systems, cloud delivery, and AI/LLM integration. I currently work at **SpanIdea Systems** and previously worked at **Kanini Software Solutions**.
+<br /><br />
 
-```text
-Focus:       Enterprise software · AI engineering · backend architecture
-Stack:       MongoDB · Express.js · React.js · Node.js
-Interests:   Code intelligence · retrieval systems · distributed systems
-Approach:    Clear APIs · observable services · reliable user experiences
-```
+<a href="https://dikshantchitara.github.io/Dikshant-Chitara-Portfolio/"><img src="https://img.shields.io/badge/PORTFOLIO-06b6d4?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Portfolio" /></a>
+<a href="https://www.linkedin.com/in/dikshantchitara/"><img src="https://img.shields.io/badge/LINKEDIN-2563eb?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+<a href="mailto:dikshantchitara27@gmail.com"><img src="https://img.shields.io/badge/CONTACT-0f172a?style=for-the-badge&logo=gmail&logoColor=white" alt="Contact" /></a>
 
-## Current focus — Codebase Intelligence
+</div>
 
-I’m currently working on **Codebase Intelligence**, an AI-powered platform for understanding, analyzing, documenting, and navigating complex software codebases.
+<br />
 
-It uses **CodeWiki** as its primary code-understanding and documentation engine and combines a modern web application with AI orchestration, retrieval, graph-based relationships, and production infrastructure. It is designed as an enterprise software platform—not a simple chatbot.
+<table align="center">
+<tr>
+<td align="center" width="180"><b>3+ YEARS</b><br /><sub>Professional Experience</sub></td>
+<td align="center" width="180"><b>MERN</b><br /><sub>Primary Stack</sub></td>
+<td align="center" width="180"><b>AI + LLM</b><br /><sub>Engineering Focus</sub></td>
+<td align="center" width="180"><b>ENTERPRISE</b><br /><sub>Product Experience</sub></td>
+</tr>
+</table>
 
-| Area | Technologies |
-| --- | --- |
-| Frontend | Next.js, React, TypeScript, Tailwind CSS, shadcn/ui, Framer Motion, React Flow, Monaco Editor, TanStack Query, Zustand |
-| Backend & AI | Python, FastAPI, LangGraph, Claude API, OpenAI API, Gemini API, Amazon Bedrock, custom AI orchestration |
-| Data & infrastructure | Oracle Database 26ai, Oracle Vector Search, Oracle Property Graph, Redis, S3, Arq, Docker, AWS ECS, Terraform, AWS Secrets Manager |
-| Reliability | OpenTelemetry, CloudWatch, Pytest, Vitest, Playwright |
+## ⚡ About me
 
-## Technical expertise
+I’m **Dikshant Chitara**, a Full Stack Software Engineer focused on **MERN application development, AI engineering, backend architecture, and distributed systems**.
 
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=js,ts,python,lua,bash,html,css,react,nextjs,angular,tailwind,materialui,nodejs,express,mongodb,postgres,redis,kafka,docker,aws,gcp,linux,terraform&perline=8" alt="JavaScript, TypeScript, Python, Lua, Bash, React, Next.js, Angular, Node.js, Express, MongoDB, PostgreSQL, Redis, Kafka, Docker, AWS, Google Cloud, Linux and Terraform" />
-</p>
+I build enterprise applications, real-time platforms, developer tools, and AI-powered workflows across frontend, backend, data, cloud, and observability layers.
+
+<div align="center">
+
+| 🧭 Primary identity | 🛠️ Engineering mindset | 🎯 Current direction |
+|:---:|:---:|:---:|
+| Full Stack Software Engineer | Practical, observable, scalable systems | Code intelligence + AI platforms |
+
+</div>
+
+## 🏢 Professional journey
+
+<table>
+<tr>
+<td width="24%" align="center">
+<img src="https://img.shields.io/badge/2024--PRESENT-0f172a?style=for-the-badge" alt="May 2024 to present" />
+<br /><br /><b>SpanIdea Systems</b><br />
+<sub>Software Engineer</sub>
+</td>
+<td>
+<b>Nokia 3D Digital Twin</b> — Building network visualization and monitoring experiences with React.js, Node.js, CesiumJS, WebGL, 3D Tiles, MQTT, and InfluxDB.<br /><br />
+<b>Nokia MPLS & Network Management</b> — Working across OpenWrt, LuCI, Lua, Linux, FRR, and network operations workflows.<br /><br />
+<b>Codebase Intelligence</b> — Developing AI-powered code understanding, documentation, retrieval, and navigation capabilities.
+</td>
+</tr>
+<tr>
+<td width="24%" align="center">
+<img src="https://img.shields.io/badge/2023--2024-1d4ed8?style=for-the-badge" alt="January 2023 to February 2024" />
+<br /><br /><b>Kanini Software Solutions</b><br />
+<sub>Software Engineer</sub>
+</td>
+<td>
+<b>Medtronic Messaging Platform</b> — Contributing to lead-generation and messaging workflows using Node.js, PostgreSQL, Redis, Kafka, Meta WhatsApp Cloud API, and AI integrations.<br /><br />
+<b>JOBEZE</b> — Building recruitment workflows with React.js, Node.js, Express.js, SQL, RabbitMQ, and Redis.<br /><br />
+<b>Kanini Academy</b> — Contributing to an e-learning platform with React.js, Node.js, MongoDB, and REST APIs.
+</td>
+</tr>
+</table>
+
+## 🧠 Current flagship project
+
+<div align="center">
+
+<img src="https://img.shields.io/badge/CURRENT%20PROJECT-CODEBASE%20INTELLIGENCE-06b6d4?style=for-the-badge&labelColor=020617" alt="Current project Codebase Intelligence" />
+
+### AI-powered code understanding for complex software systems
+
+</div>
+
+Codebase Intelligence is an enterprise platform for **understanding, analyzing, documenting, and navigating large codebases**. It uses **CodeWiki** as its primary code-understanding and documentation engine and combines retrieval, graph relationships, AI orchestration, and production infrastructure.
+
+<table>
+<tr>
+<td valign="top" width="50%">
+<h4>🎨 Product experience</h4>
+
+<img src="https://skillicons.dev/icons?i=nextjs,react,ts,tailwind&perline=4" alt="Next.js, React, TypeScript and Tailwind CSS" />
+
+Next.js · React · TypeScript · Tailwind CSS · shadcn/ui · Framer Motion · React Flow · Monaco Editor · TanStack Query · Zustand
+</td>
+<td valign="top" width="50%">
+<h4>🤖 AI & backend</h4>
+
+<img src="https://skillicons.dev/icons?i=python,fastapi,docker&perline=3" alt="Python, FastAPI and Docker" />
+
+Python · FastAPI · LangGraph · Claude · OpenAI · Gemini · Amazon Bedrock · custom AI orchestration
+</td>
+</tr>
+<tr>
+<td valign="top">
+<h4>🗄️ Data & infrastructure</h4>
+
+Oracle Database 26ai · Oracle Vector Search · Oracle Property Graph · Redis · S3 · Arq · AWS ECS · Terraform · AWS Secrets Manager
+</td>
+<td valign="top">
+<h4>🔍 Quality & observability</h4>
+
+OpenTelemetry · CloudWatch · Pytest · Vitest · Playwright
+</td>
+</tr>
+</table>
+
+## 🧰 Technical toolbox
+
+<div align="center">
+
+<h4>Languages & application development</h4>
+<img src="https://skillicons.dev/icons?i=js,ts,python,lua,bash,html,css,react,nextjs,angular,nodejs,express&perline=12" alt="JavaScript, TypeScript, Python, Lua, Bash, HTML, CSS, React, Next.js, Angular, Node.js and Express" />
+
+<h4>Data, cloud & systems</h4>
+<img src="https://skillicons.dev/icons?i=mongodb,postgres,redis,kafka,docker,aws,gcp,linux,terraform&perline=9" alt="MongoDB, PostgreSQL, Redis, Kafka, Docker, AWS, Google Cloud, Linux and Terraform" />
+
+</div>
 
 <details>
-<summary><b>View engineering capabilities</b></summary>
+<summary><b>View complete capability map</b></summary>
 
-| Category | Capabilities |
-| --- | --- |
-| Languages | JavaScript, TypeScript, Python, Lua, Bash, SQL |
-| Frontend | React.js, Next.js, Angular, HTML5, CSS, Tailwind CSS, Material UI, Ant Design |
-| Backend | Node.js, Express.js, REST APIs, microservices, WebSockets, event-driven architecture |
-| Databases & messaging | MongoDB, PostgreSQL, Redis, InfluxDB, Oracle, Kafka |
-| AI & LLM engineering | OpenAI API, Gemini API, Claude, LangChain, LangGraph, RAG, vector search, AI agents, prompt engineering |
-| Cloud & DevOps | AWS, Docker, Linux, CI/CD, Terraform, Google Cloud Functions, Google Container Registry |
-| Networking & systems | OpenWrt, LuCI, MQTT, FRR, MPLS, network monitoring, Linux networking |
-| Engineering practices | System design, API security, unit testing, integration testing, Agile, Scrum, debugging, performance optimization, code reviews |
+<table>
+<tr><td><b>Frontend</b></td><td>React.js · Next.js · Angular · HTML5 · CSS · Tailwind CSS · Material UI · Ant Design</td></tr>
+<tr><td><b>Backend</b></td><td>Node.js · Express.js · REST APIs · Microservices · WebSockets · Event-Driven Architecture</td></tr>
+<tr><td><b>Data & messaging</b></td><td>MongoDB · PostgreSQL · Redis · InfluxDB · Oracle · Kafka · RabbitMQ</td></tr>
+<tr><td><b>AI & LLM</b></td><td>OpenAI API · Gemini API · Claude · LangChain · LangGraph · RAG · Vector Search · AI Agents · Prompt Engineering</td></tr>
+<tr><td><b>Cloud & DevOps</b></td><td>AWS · Docker · Linux · CI/CD · Terraform · Google Cloud Functions · Google Container Registry</td></tr>
+<tr><td><b>Networking</b></td><td>OpenWrt · LuCI · MQTT · FRR · MPLS · Network Monitoring · Linux Networking</td></tr>
+<tr><td><b>Practices</b></td><td>System Design · API Security · Testing · Agile · Scrum · Debugging · Performance Optimization · Code Reviews</td></tr>
+</table>
 
 </details>
 
-## Professional experience
+## 🚀 Selected work
 
-### SpanIdea Systems · Software Engineer
-**May 2024 – Present**
+<table>
+<tr>
+<td width="50%" valign="top">
+<h3>🧑‍💻 CodePilot AI</h3>
+<a href="https://github.com/dikshantchitara/CodePilot-AI-Client"><img src="https://github-readme-stats.vercel.app/api/pin/?username=dikshantchitara&repo=CodePilot-AI-Client&theme=tokyonight&hide_border=true" alt="CodePilot AI Client repository" /></a>
+<br />AI-assisted browser development environment with file exploration, Monaco editing, terminal interactions, WebSockets, and AI code processing.
+</td>
+<td width="50%" valign="top">
+<h3>📄 Smart Resume Customizer</h3>
+<a href="https://github.com/dikshantchitara/AI-Latex-Resume_updater-"><img src="https://github-readme-stats.vercel.app/api/pin/?username=dikshantchitara&repo=AI-Latex-Resume_updater-&theme=tokyonight&hide_border=true" alt="Smart Resume Customizer repository" /></a>
+<br />AI-powered LaTeX resume optimization with keyword matching, version comparison, PDF preview, templates, and cover-letter generation.
+</td>
+</tr>
+<tr>
+<td valign="top">
+<h3>🧠 LeetCode Daily AI</h3>
+<a href="https://github.com/dikshantchitara/leetcode-daily-ai"><img src="https://github-readme-stats.vercel.app/api/pin/?username=dikshantchitara&repo=leetcode-daily-ai&theme=tokyonight&hide_border=true" alt="LeetCode Daily AI repository" /></a>
+<br />Python and GitHub Actions automation that generates, validates, and stores daily algorithm solutions for human review.
+</td>
+<td valign="top">
+<h3>💬 React Messaging App</h3>
+<a href="https://github.com/dikshantchitara/React-Messaging-App"><img src="https://github-readme-stats.vercel.app/api/pin/?username=dikshantchitara&repo=React-Messaging-App&theme=tokyonight&hide_border=true" alt="React Messaging App repository" /></a>
+<br />Real-time text and file messaging proof of concept built with React, Node.js, and WebSockets.
+</td>
+</tr>
+</table>
 
-- Building enterprise software across modern frontend, backend, networking, and AI-enabled application domains.
-- Contributing to **Nokia 3D Digital Twin** solutions using React.js, Node.js, CesiumJS, WebGL, 3D Tiles, MQTT, and InfluxDB to visualize and monitor complex network environments.
-- Working on **Nokia MPLS and network management** capabilities across OpenWrt, LuCI, Lua, Linux, FRR, and networking workflows.
-- Currently contributing to **Codebase Intelligence**, an AI-powered platform for code understanding, documentation, retrieval, and navigation.
+## 🎓 Education
 
-### Kanini Software Solutions · Software Engineer
-**January 2023 – February 2024**
+<table align="center">
+<tr>
+<td align="center" width="50%">
+<img src="https://img.shields.io/badge/MCA-ARTIFICIAL%20INTELLIGENCE%20%26%20MACHINE%20LEARNING-2563eb?style=for-the-badge" alt="Master of Computer Applications in Artificial Intelligence and Machine Learning" />
+<br /><br /><b>Master of Computer Applications</b><br />
+Artificial Intelligence & Machine Learning<br />
+<b>JECRC University, Jaipur</b><br />
+2021 – 2023 · <b>8.5 GPA</b>
+</td>
+<td align="center" width="50%">
+<img src="https://img.shields.io/badge/PROFILE-ALWAYS%20BUILDING-06b6d4?style=for-the-badge" alt="Always building" />
+<br /><br />Enterprise applications<br />
+AI-powered developer tools<br />
+Backend and distributed systems<br />
+Continuous engineering growth
+</td>
+</tr>
+</table>
 
-- Developed enterprise and product-focused web applications using React.js, Node.js, Express.js, MongoDB, SQL, and REST APIs.
-- Contributed to the **Medtronic WhatsApp lead-generation and messaging platform**, integrating PostgreSQL, Redis, Kafka, Meta WhatsApp Cloud API, and AI capabilities for reliable communication workflows.
-- Built features for **JOBEZE**, a recruitment platform focused on job discovery and employer workflows, using React.js, Node.js, Express.js, SQL, RabbitMQ, and Redis.
-- Contributed to **Kanini Academy**, an e-learning platform built around structured learning experiences and API-driven application flows.
+## 📊 Engineering activity
 
-> Company and client references above are intentionally limited to high-level responsibilities and publicly appropriate technology context.
+<div align="center">
 
-## Featured independent projects
+<img src="https://github-profile-trophy.vercel.app/?username=dikshantchitara&theme=algolia&no-frame=true&no-bg=true&margin-w=8&row=1&column=6" alt="GitHub profile trophies" />
 
-### [CodePilot AI Client](https://github.com/dikshantchitara/CodePilot-AI-Client) + [Server](https://github.com/dikshantchitara/CodePilot-AI-Server)
+<br /><br />
 
-An AI-assisted browser development environment with a React interface, file explorer, Monaco-based code editing, terminal interactions, Markdown/code rendering, and a Node.js backend. The server exposes file operations, WebSocket-based process communication, workspace management, and AI code-processing routes.
+<img src="https://github-readme-stats.vercel.app/api?username=dikshantchitara&show_icons=true&hide_border=true&bg_color=020617&title_color=22d3ee&icon_color=38bdf8&text_color=e2e8f0&rank_icon=github" height="170" alt="GitHub statistics" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dikshantchitara&layout=compact&hide_border=true&bg_color=020617&title_color=22d3ee&text_color=e2e8f0" height="170" alt="Most used programming languages" />
 
-**Stack:** React, Material UI, Monaco Editor, Axios, Node.js, Express.js, WebSockets, OpenAI-compatible integrations.
+<br /><br />
 
-### [Smart Resume Customizer](https://github.com/dikshantchitara/AI-Latex-Resume_updater-)
+<img src="https://streak-stats.demolab.com?user=dikshantchitara&theme=dark&hide_border=true&background=020617&ring=22d3ee&fire=38bdf8&currStreakLabel=e2e8f0" alt="GitHub contribution streak" />
 
-An AI-powered resume workflow for tailoring LaTeX resumes to job descriptions. It supports resume import, LaTeX editing, AI optimization, keyword matching, version comparison, template management, PDF preview, and cover-letter generation.
+<br /><br />
 
-**Stack:** React, Vite, Tailwind CSS, Framer Motion, Monaco Editor, Gemini/OpenAI integrations, LaTeX tooling, PDF.js, Tesseract.js, Node.js.
+<a href="https://leetcode.com/dikshantchitara00/"><img src="https://img.shields.io/badge/LEETCODE-dikshantchitara00-FFA116?style=for-the-badge&logo=leetcode&logoColor=white" alt="LeetCode profile" /></a>
 
-### [LeetCode Daily AI](https://github.com/dikshantchitara/leetcode-daily-ai)
+</div>
 
-A Python automation that generates LeetCode daily solutions for human review. It runs on GitHub Actions, uses an OpenAI-compatible provider, validates generated Python syntax and tests in an isolated environment, and commits dated solutions only when output changes.
+## 🤝 Let’s connect
 
-**Stack:** Python 3.12, Requests, Pytest, GitHub Actions, OpenAI-compatible APIs.
+<div align="center">
+<a href="https://dikshantchitara.github.io/Dikshant-Chitara-Portfolio/"><img src="https://img.shields.io/badge/Portfolio-06b6d4?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Portfolio" /></a>
+<a href="https://www.linkedin.com/in/dikshantchitara/"><img src="https://img.shields.io/badge/LinkedIn-2563eb?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+<a href="mailto:dikshantchitara27@gmail.com"><img src="https://img.shields.io/badge/Email-0f172a?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
+</div>
 
-### [React Messaging App](https://github.com/dikshantchitara/React-Messaging-App)
+<br />
 
-A real-time messaging proof of concept that uses a React client and Node.js WebSocket server to broadcast text and file messages between connected clients.
-
-**Stack:** React, Node.js, WebSocket.
-
-### [Personal Portfolio](https://github.com/dikshantchitara/Dikshant-Chitara-Portfolio)
-
-My personal portfolio site with animated sections for profile, skills, projects, education, experience, and social links. The repository also documents selected professional and independent work.
-
-**Stack:** HTML, CSS, JavaScript, Font Awesome, ScrollReveal, GitHub Pages.
-
-## AI engineering and systems interests
-
-<p align="center">
-  <img src="https://img.shields.io/badge/AI%20Engineering-0f172a?style=for-the-badge&logo=openai&logoColor=white" alt="AI Engineering" />
-  <img src="https://img.shields.io/badge/RAG%20%26%20Vector%20Search-1d4ed8?style=for-the-badge&logo=databricks&logoColor=white" alt="Retrieval augmented generation and vector search" />
-  <img src="https://img.shields.io/badge/Distributed%20Systems-0891b2?style=for-the-badge&logo=apachekafka&logoColor=white" alt="Distributed systems" />
-  <img src="https://img.shields.io/badge/Enterprise%20Architecture-164e63?style=for-the-badge&logo=amazonaws&logoColor=white" alt="Enterprise architecture" />
-</p>
-
-I’m especially interested in code intelligence, retrieval-augmented generation, AI agents, event-driven services, API security, observability, performance, and designing systems that remain understandable as they scale.
-
-## GitHub and problem-solving
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=dikshantchitara&show_icons=true&hide_border=true&bg_color=0b1120&title_color=22d3ee&icon_color=38bdf8&text_color=e2e8f0&rank_icon=github" alt="Dikshant's GitHub statistics" height="175" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dikshantchitara&layout=compact&hide_border=true&bg_color=0b1120&title_color=22d3ee&text_color=e2e8f0" alt="Dikshant's most used languages" height="175" />
-</p>
-
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=dikshantchitara&theme=dark&hide_border=true&background=0b1120&ring=22d3ee&fire=38bdf8&currStreakLabel=e2e8f0" alt="Dikshant's GitHub contribution streak" />
-</p>
-
-<p align="center">
-  <a href="https://leetcode.com/dikshantchitara00/"><img src="https://img.shields.io/badge/LeetCode-dikshantchitara00-FFA116?style=for-the-badge&logo=leetcode&logoColor=white" alt="Dikshant's LeetCode profile" /></a>
-</p>
-
-## Connect
-
-<p align="center">
-  <a href="https://dikshantchitara.github.io/Dikshant-Chitara-Portfolio/"><img src="https://img.shields.io/badge/Portfolio-0891b2?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Portfolio" /></a>
-  <a href="https://www.linkedin.com/in/dikshantchitara/"><img src="https://img.shields.io/badge/LinkedIn-1d4ed8?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
-  <a href="mailto:dikshantchitara27@gmail.com"><img src="https://img.shields.io/badge/dikshantchitara27%40gmail.com-0f172a?style=for-the-badge&logo=gmail&logoColor=white" alt="Email Dikshant" /></a>
-</p>
-
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0891b2,50:172554,100:0b1120&height=100&section=footer" alt="" width="100%" />
-</p>
+<div align="center">
+<img src="https://komarev.com/ghpvc/?username=dikshantchitara&label=PROFILE+VIEWS&color=06b6d4&style=for-the-badge" alt="Profile views" />
+<br /><br />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:06b6d4,50:172554,100:020617&height=120&section=footer" width="100%" alt="" />
+</div>
