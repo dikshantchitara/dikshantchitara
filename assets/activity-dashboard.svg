@@ -1,0 +1,23 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1000 260" role="img" aria-labelledby="title desc">
+  <title id="title">Engineering activity dashboard</title>
+  <desc id="desc">A visual summary of engineering focus areas and contribution activity.</desc>
+  <rect width="1000" height="260" rx="18" fill="#020617" stroke="#1e3a8a"/>
+  <g font-family="ui-monospace, SFMono-Regular, Menlo, monospace">
+    <text x="35" y="42" fill="#67e8f9" font-size="20" font-weight="700">ENGINEERING_ACTIVITY</text>
+    <text x="35" y="70" fill="#94a3b8" font-size="13">current focus across products, systems, and AI workflows</text>
+    <g transform="translate(35 100)">
+      <text y="20" fill="#e2e8f0" font-size="14">Enterprise software</text>
+      <rect x="190" y="7" width="500" height="16" rx="8" fill="#172554"/>
+      <rect x="190" y="7" width="430" height="16" rx="8" fill="#06b6d4"><animate attributeName="width" values="390;430;390" dur="4s" repeatCount="indefinite"/></rect>
+      <text x="710" y="20" fill="#67e8f9" font-size="13">86%</text>
+      <text y="60" fill="#e2e8f0" font-size="14">AI engineering</text>
+      <rect x="190" y="47" width="500" height="16" rx="8" fill="#172554"/>
+      <rect x="190" y="47" width="390" height="16" rx="8" fill="#8b5cf6"><animate attributeName="width" values="350;390;350" dur="4.8s" repeatCount="indefinite"/></rect>
+      <text x="710" y="60" fill="#c4b5fd" font-size="13">78%</text>
+      <text y="100" fill="#e2e8f0" font-size="14">Backend systems</text>
+      <rect x="190" y="87" width="500" height="16" rx="8" fill="#172554"/>
+      <rect x="190" y="87" width="460" height="16" rx="8" fill="#38bdf8"><animate attributeName="width" values="420;460;420" dur="4.4s" repeatCount="indefinite"/></rect>
+      <text x="710" y="100" fill="#7dd3fc" font-size="13">92%</text>
+    </g>
+  </g>
+</svg>

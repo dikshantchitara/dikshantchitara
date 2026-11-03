@@ -1,12 +1,10 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:020617,35:172554,70:0369a1,100:06b6d4&height=240&section=header&text=DIKSHANT%20CHITARA&fontSize=54&fontColor=ffffff&fontAlignY=38&animation=fadeIn&desc=FULL%20STACK%20SOFTWARE%20ENGINEER%20%E2%80%A2%20MERN%20%E2%80%A2%20AI%20ENGINEERING&descAlignY=62&descSize=16" width="100%" alt="Animated Dikshant Chitara header" />
-
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=21&duration=2400&pause=700&color=22D3EE&center=true&vCenter=true&width=850&lines=3%2B+years+of+building+enterprise+software;MERN+%7C+AI+Engineering+%7C+Distributed+Systems;Designing+systems+that+are+useful%2C+observable%2C+and+scalable" alt="Animated professional tagline" />
+<img src="./assets/profile-hero.svg" width="100%" alt="Animated Dikshant Chitara header" />
 
 <br />
 
-<img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="360" alt="Animated developer coding at a computer" />
+<img src="./assets/coding-window.svg" width="520" alt="Animated software engineering workspace" />
 
 <br /><br />
 
@@ -36,7 +34,7 @@
 
 <div align="center">
 
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=dikshantchitara&theme=tokyonight" width="96%" alt="GitHub profile contribution overview" />
+<img src="./assets/activity-dashboard.svg" width="96%" alt="Engineering activity dashboard" />
 
 </div>
 
@@ -116,14 +114,19 @@ flowchart LR
 <td valign="top" width="50%">
 <h4>🎨 Product experience</h4>
 
-<img src="https://skillicons.dev/icons?i=nextjs,react,ts,tailwind&perline=4" alt="Next.js, React, TypeScript and Tailwind CSS" />
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nextjs/nextjs-original.svg" width="42" alt="Next.js" />
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" width="42" alt="React" />
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" width="42" alt="TypeScript" />
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/tailwindcss/tailwindcss-original.svg" width="42" alt="Tailwind CSS" />
 
 Next.js · React · TypeScript · Tailwind CSS · shadcn/ui · Framer Motion · React Flow · Monaco Editor · TanStack Query · Zustand
 </td>
 <td valign="top" width="50%">
 <h4>🤖 AI & backend</h4>
 
-<img src="https://skillicons.dev/icons?i=python,fastapi,docker&perline=3" alt="Python, FastAPI and Docker" />
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="42" alt="Python" />
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/fastapi/fastapi-original.svg" width="42" alt="FastAPI" />
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg" width="42" alt="Docker" />
 
 Python · FastAPI · LangGraph · Claude · OpenAI · Gemini · Amazon Bedrock · custom AI orchestration
 </td>
@@ -153,10 +156,28 @@ OpenTelemetry · CloudWatch · Pytest · Vitest · Playwright
 <div align="center">
 
 <h4>Languages & application development</h4>
-<img src="https://skillicons.dev/icons?i=js,ts,python,lua,bash,html,css,react,nextjs,angular,nodejs,express&perline=12" alt="JavaScript, TypeScript, Python, Lua, Bash, HTML, CSS, React, Next.js, Angular, Node.js and Express" />
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="38" alt="JavaScript" />
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" width="38" alt="TypeScript" />
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="38" alt="Python" />
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/lua/lua-original.svg" width="38" alt="Lua" />
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" width="38" alt="HTML5" />
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" width="38" alt="CSS3" />
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" width="38" alt="React" />
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nextjs/nextjs-original.svg" width="38" alt="Next.js" />
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/angular/angular-original.svg" width="38" alt="Angular" />
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" width="38" alt="Node.js" />
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original.svg" width="38" alt="Express.js" />
 
 <h4>Data, cloud & systems</h4>
-<img src="https://skillicons.dev/icons?i=mongodb,postgres,redis,kafka,docker,aws,gcp,linux,terraform&perline=9" alt="MongoDB, PostgreSQL, Redis, Kafka, Docker, AWS, Google Cloud, Linux and Terraform" />
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original.svg" width="38" alt="MongoDB" />
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg" width="38" alt="PostgreSQL" />
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redis/redis-original.svg" width="38" alt="Redis" />
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/apachekafka/apachekafka-original.svg" width="38" alt="Kafka" />
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg" width="38" alt="Docker" />
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" width="38" alt="AWS" />
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/googlecloud/googlecloud-original.svg" width="38" alt="Google Cloud" />
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" width="38" alt="Linux" />
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/terraform/terraform-original.svg" width="38" alt="Terraform" />
 
 </div>
 
@@ -178,31 +199,31 @@ OpenTelemetry · CloudWatch · Pytest · Vitest · Playwright
 ## 🚀 Selected work
 
 <div align="center">
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=18&duration=2600&pause=800&color=38BDF8&center=true&vCenter=true&width=700&lines=Selected+systems%2C+tools%2C+and+experiments;Built+to+solve+real+engineering+problems" alt="Animated selected work heading" />
+<img src="./assets/project-spotlight.svg" width="96%" alt="Featured engineering project spotlight" />
 </div>
 
 <table>
 <tr>
 <td width="50%" valign="top">
 <h3>🧑‍💻 CodePilot AI</h3>
-<a href="https://github.com/dikshantchitara/CodePilot-AI-Client"><img src="https://github-readme-stats.vercel.app/api/pin/?username=dikshantchitara&repo=CodePilot-AI-Client&theme=tokyonight&hide_border=true" alt="CodePilot AI Client repository" /></a>
+<a href="https://github.com/dikshantchitara/CodePilot-AI-Client"><img src="https://img.shields.io/badge/VIEW%20REPOSITORY-CodePilot%20AI-172554?style=for-the-badge&logo=github&logoColor=white" alt="CodePilot AI Client repository" /></a>
 <br />AI-assisted browser development environment with file exploration, Monaco editing, terminal interactions, WebSockets, and AI code processing.
 </td>
 <td width="50%" valign="top">
 <h3>📄 Smart Resume Customizer</h3>
-<a href="https://github.com/dikshantchitara/AI-Latex-Resume_updater-"><img src="https://github-readme-stats.vercel.app/api/pin/?username=dikshantchitara&repo=AI-Latex-Resume_updater-&theme=tokyonight&hide_border=true" alt="Smart Resume Customizer repository" /></a>
+<a href="https://github.com/dikshantchitara/AI-Latex-Resume_updater-"><img src="https://img.shields.io/badge/VIEW%20REPOSITORY-Resume%20AI-312e81?style=for-the-badge&logo=github&logoColor=white" alt="Smart Resume Customizer repository" /></a>
 <br />AI-powered LaTeX resume optimization with keyword matching, version comparison, PDF preview, templates, and cover-letter generation.
 </td>
 </tr>
 <tr>
 <td valign="top">
 <h3>🧠 LeetCode Daily AI</h3>
-<a href="https://github.com/dikshantchitara/leetcode-daily-ai"><img src="https://github-readme-stats.vercel.app/api/pin/?username=dikshantchitara&repo=leetcode-daily-ai&theme=tokyonight&hide_border=true" alt="LeetCode Daily AI repository" /></a>
+<a href="https://github.com/dikshantchitara/leetcode-daily-ai"><img src="https://img.shields.io/badge/VIEW%20REPOSITORY-LeetCode%20Daily-164e63?style=for-the-badge&logo=github&logoColor=white" alt="LeetCode Daily AI repository" /></a>
 <br />Python and GitHub Actions automation that generates, validates, and stores daily algorithm solutions for human review.
 </td>
 <td valign="top">
 <h3>💬 React Messaging App</h3>
-<a href="https://github.com/dikshantchitara/React-Messaging-App"><img src="https://github-readme-stats.vercel.app/api/pin/?username=dikshantchitara&repo=React-Messaging-App&theme=tokyonight&hide_border=true" alt="React Messaging App repository" /></a>
+<a href="https://github.com/dikshantchitara/React-Messaging-App"><img src="https://img.shields.io/badge/VIEW%20REPOSITORY-Messaging%20App-1e3a8a?style=for-the-badge&logo=github&logoColor=white" alt="React Messaging App repository" /></a>
 <br />Real-time text and file messaging proof of concept built with React, Node.js, and WebSockets.
 </td>
 </tr>
@@ -239,7 +260,7 @@ Continuous engineering growth
 
 <div align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=dikshantchitara&bg_color=020617&color=67e8f9&line=0ea5e9&point=ffffff&area=true&hide_border=true&custom_title=Contribution%20activity" width="96%" alt="GitHub contribution activity graph" />
+<img src="./assets/activity-dashboard.svg" width="96%" alt="Engineering activity dashboard" />
 
 </div>
 
@@ -247,16 +268,15 @@ Continuous engineering growth
 
 <div align="center">
 
-<img src="https://github-profile-trophy.vercel.app/?username=dikshantchitara&theme=algolia&no-frame=true&no-bg=true&margin-w=8&row=1&column=6" alt="GitHub profile trophies" />
+<a href="https://github.com/dikshantchitara?tab=overview"><img src="https://img.shields.io/badge/GITHUB_PROFILE-OPEN%20PROFILE-172554?style=for-the-badge&logo=github&logoColor=white" alt="Open GitHub profile" /></a>
 
 <br /><br />
 
-<img src="https://github-readme-stats.vercel.app/api?username=dikshantchitara&show_icons=true&hide_border=true&bg_color=020617&title_color=22d3ee&icon_color=38bdf8&text_color=e2e8f0&rank_icon=github" height="170" alt="GitHub statistics" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dikshantchitara&layout=compact&hide_border=true&bg_color=020617&title_color=22d3ee&text_color=e2e8f0" height="170" alt="Most used programming languages" />
+<img src="./assets/activity-dashboard.svg" width="96%" alt="GitHub activity style dashboard" />
 
 <br /><br />
 
-<img src="https://streak-stats.demolab.com?user=dikshantchitara&theme=dark&hide_border=true&background=020617&ring=22d3ee&fire=38bdf8&currStreakLabel=e2e8f0" alt="GitHub contribution streak" />
+<a href="https://github.com/dikshantchitara/commits/main/"><img src="https://img.shields.io/badge/COMMIT%20HISTORY-VIEW%20ACTIVITY-06b6d4?style=for-the-badge&logo=github&logoColor=white" alt="View commit history" /></a>
 
 <br /><br />
 
@@ -279,5 +299,5 @@ Continuous engineering growth
 <br /><br />
 <img src="https://img.shields.io/badge/MADE%20WITH-REACT%20%2B%20NODE%20%2B%20AI-06b6d4?style=for-the-badge&logo=github&logoColor=white" alt="Made with React, Node and AI" />
 <br /><br />
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:06b6d4,50:172554,100:020617&height=120&section=footer" width="100%" alt="" />
+<img src="./assets/profile-hero.svg" width="100%" alt="" />
 </div>

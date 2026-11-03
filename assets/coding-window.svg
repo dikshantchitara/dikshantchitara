@@ -1,0 +1,21 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 640 360" role="img" aria-labelledby="title desc">
+  <title id="title">Animated software engineering workspace</title>
+  <desc id="desc">A dark terminal and code editor illustration with animated cursor.</desc>
+  <rect width="640" height="360" rx="18" fill="#020617" stroke="#164e63" stroke-width="4"/>
+  <rect x="22" y="22" width="596" height="34" rx="10" fill="#0f172a"/>
+  <circle cx="45" cy="39" r="6" fill="#fb7185"/><circle cx="66" cy="39" r="6" fill="#facc15"/><circle cx="87" cy="39" r="6" fill="#4ade80"/>
+  <rect x="22" y="72" width="150" height="264" rx="8" fill="#0f172a"/>
+  <g fill="#64748b" font-family="ui-monospace, monospace" font-size="13">
+    <text x="42" y="106">src/</text><text x="56" y="132">components/</text><text x="56" y="158">services/</text><text x="56" y="184">ai/</text><text x="56" y="210">routes/</text><text x="42" y="248">README.md</text><text x="42" y="274">package.json</text>
+  </g>
+  <rect x="190" y="72" width="428" height="264" rx="8" fill="#07111f"/>
+  <g font-family="ui-monospace, monospace" font-size="15">
+    <text x="215" y="112" fill="#c084fc">const</text><text x="265" y="112" fill="#e2e8f0"> system = </text><text x="345" y="112" fill="#67e8f9">"building"</text><text x="430" y="112" fill="#94a3b8">;</text>
+    <text x="215" y="148" fill="#c084fc">await</text><text x="270" y="148" fill="#e2e8f0"> orchestrate(</text><text x="370" y="148" fill="#38bdf8">AI</text><text x="392" y="148" fill="#e2e8f0">, </text><text x="410" y="148" fill="#38bdf8">data</text><text x="450" y="148" fill="#e2e8f0">);</text>
+    <text x="215" y="184" fill="#64748b">// make complex systems useful</text>
+    <text x="215" y="220" fill="#4ade80">✓</text><text x="240" y="220" fill="#e2e8f0"> tests passing</text>
+    <text x="215" y="256" fill="#4ade80">✓</text><text x="240" y="256" fill="#e2e8f0"> observability enabled</text>
+    <text x="215" y="292" fill="#22d3ee">▌</text><text x="240" y="292" fill="#e2e8f0"> shipping reliable software</text>
+    <rect x="215" y="304" width="9" height="18" fill="#22d3ee"><animate attributeName="opacity" values="1;0;1" dur="1s" repeatCount="indefinite"/></rect>
+  </g>
+</svg>

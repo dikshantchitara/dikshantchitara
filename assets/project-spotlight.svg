@@ -1,0 +1,31 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1000 180" role="img" aria-labelledby="title desc">
+  <title id="title">Featured engineering projects</title>
+  <desc id="desc">Visual project spotlight showing CodePilot, Smart Resume Customizer, LeetCode Daily AI, and React Messaging App.</desc>
+  <rect width="1000" height="180" rx="18" fill="#0f172a" stroke="#334155"/>
+  <g font-family="ui-monospace, SFMono-Regular, Menlo, monospace" text-anchor="middle">
+    <g transform="translate(30 28)">
+      <rect width="210" height="120" rx="12" fill="#172554"/>
+      <text x="105" y="40" fill="#67e8f9" font-size="28">⌘</text>
+      <text x="105" y="73" fill="#fff" font-size="15" font-weight="700">CodePilot AI</text>
+      <text x="105" y="98" fill="#93c5fd" font-size="12">AI developer tools</text>
+    </g>
+    <g transform="translate(270 28)">
+      <rect width="210" height="120" rx="12" fill="#312e81"/>
+      <text x="105" y="40" fill="#c4b5fd" font-size="28">✦</text>
+      <text x="105" y="73" fill="#fff" font-size="15" font-weight="700">Resume AI</text>
+      <text x="105" y="98" fill="#ddd6fe" font-size="12">AI document workflows</text>
+    </g>
+    <g transform="translate(510 28)">
+      <rect width="210" height="120" rx="12" fill="#164e63"/>
+      <text x="105" y="40" fill="#67e8f9" font-size="28">λ</text>
+      <text x="105" y="73" fill="#fff" font-size="15" font-weight="700">LeetCode Daily</text>
+      <text x="105" y="98" fill="#a5f3fc" font-size="12">Python automation</text>
+    </g>
+    <g transform="translate(750 28)">
+      <rect width="210" height="120" rx="12" fill="#1e3a8a"/>
+      <text x="105" y="40" fill="#93c5fd" font-size="28">◌</text>
+      <text x="105" y="73" fill="#fff" font-size="15" font-weight="700">Messaging App</text>
+      <text x="105" y="98" fill="#bfdbfe" font-size="12">Real-time WebSockets</text>
+    </g>
+  </g>
+</svg>
