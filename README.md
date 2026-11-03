@@ -1,36 +1,85 @@
-<h1 align="center">Hi 👋, I'm Dikshant Chitara</h1>
-<h3 align="center">A passionate Full Stack Developer from India</h3>
-
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=dikshantchitara&label=Profile%20views&color=0e75b6&style=flat" alt="dikshantchitara" /> </p>
-
-- 🔭 I’m currently working on [React-E Commerce Project](https://github.com/dikshantchitara/ecommercewebsite)
-
-- 🌱 I’m currently learning **ReactJs, Django, Python, API**
-
-- 👯 I’m looking to collaborate on [ZenithMatrixSolution](https://github.com/dikshantchitara/ZenithMatrixSolution)
-
-- 👨‍💻 All of my projects are available at [https://github.com/dikshantchitara/Dikshant-Chitara-Portfolio](https://github.com/dikshantchitara/Dikshant-Chitara-Portfolio)
-
-- 📝 I regularly doing leetcode practise [https://leetcode.com/dikshantchitara00/](https://leetcode.com/dikshantchitara00/)
-
-- 💬 Ask me about **react, Gsap, API ,Python**
-
-- 📫 How to reach me **dikshantchitara27@gmail.com**
-
-- ⚡ Fun fact **still gaining the skills for best 1 percent developer club**
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/dikshantchitara" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="dikshantchitara" height="30" width="40" /></a>
-<a href="https://instagram.com/dikshant.27" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="dikshant.27" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/dikshantchitara00" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="dikshantchitara00" height="30" width="40" /></a>
+<!-- Animated profile header -->
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f172a,50:2563eb,100:06b6d4&height=220&section=header&text=Dikshant%20Chitara&fontSize=54&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Full%20Stack%20Developer%20%7C%20Creative%20Problem%20Solver&descAlignY=60&descSize=18" alt="Animated banner introducing Dikshant Chitara" width="100%" />
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://angular.io" target="_blank" rel="noreferrer"> <img src="https://angular.io/assets/images/logos/angular/angular.svg" alt="angular" width="40" height="40"/> </a> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cs/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.djangoproject.com/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/django.svg" alt="django" width="40" height="40"/> </a> <a href="https://dotnet.microsoft.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dot-net/dot-net-original-wordmark.svg" alt="dotnet" width="40" height="40"/> </a> <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> </a> <a href="https://www.php.net" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://pytorch.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" alt="pytorch" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://redux.js.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg" alt="redux" width="40" height="40"/> </a> <a href="https://scikit-learn.org/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="40" height="40"/> </a> <a href="https://www.tensorflow.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/> </a> <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a> </p>
+<p align="center">
+  <a href="https://github.com/dikshantchitara">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=2800&pause=900&color=06B6D4&center=true&vCenter=true&width=700&lines=Building+useful+things+for+the+web+%F0%9F%9A%80;React+%2B+Python+%2B+APIs;Always+learning.+Always+shipping." alt="Animated introduction text" />
+  </a>
+</p>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=dikshantchitara&show_icons=true&locale=en&layout=compact" alt="dikshantchitara" /></p>
+<p align="center">
+  <a href="https://github.com/dikshantchitara"><img src="https://komarev.com/ghpvc/?username=dikshantchitara&label=Profile%20views&color=2563eb&style=for-the-badge" alt="Profile views" /></a>
+  <a href="https://github.com/dikshantchitara?tab=followers"><img src="https://img.shields.io/github/followers/dikshantchitara?label=Followers&style=for-the-badge&color=06b6d4" alt="GitHub followers" /></a>
+</p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=dikshantchitara&show_icons=true&locale=en" alt="dikshantchitara" /></p>
+## 👋 Hello, I'm Dikshant
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=dikshantchitara&" alt="dikshantchitara" /></p>
+I’m a **Full Stack Developer from India** who enjoys turning ideas into fast, friendly, and useful digital experiences. I work mainly with **React, JavaScript, Python, Django, and APIs**, while continuously sharpening my problem-solving skills.
+
+<p align="center">
+  <a href="https://github.com/dikshantchitara/Dikshant-Chitara-Portfolio"><img src="https://img.shields.io/badge/🌐_Portfolio-2563eb?style=for-the-badge" alt="Visit portfolio" /></a>
+  <a href="mailto:dikshantchitara27@gmail.com"><img src="https://img.shields.io/badge/✉️_Let's_talk-0f172a?style=for-the-badge" alt="Send an email" /></a>
+  <a href="https://leetcode.com/dikshantchitara00/"><img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=white" alt="LeetCode profile" /></a>
+</p>
+
+## 🚀 What I’m up to
+
+```text
+🔭 Building      React E-Commerce Project
+🌱 Learning      React, Django, Python & API design
+🤝 Collaborating ZenithMatrixSolution
+🧠 Practising    Data structures & algorithms on LeetCode
+⚡ Goal          Keep learning, keep shipping, become a better 1% developer
+```
+
+## ✨ Featured work
+
+<table>
+  <tr>
+    <td width="50%" valign="top">
+      <h3>🛒 React E-Commerce Project</h3>
+      <p>A hands-on project focused on creating a smooth, modern shopping experience with React.</p>
+      <a href="https://github.com/dikshantchitara/ecommercewebsite">View repository →</a>
+    </td>
+    <td width="50%" valign="top">
+      <h3>🧩 ZenithMatrixSolution</h3>
+      <p>A collaboration space where I explore practical solutions and grow with other builders.</p>
+      <a href="https://github.com/dikshantchitara/ZenithMatrixSolution">View repository →</a>
+    </td>
+  </tr>
+</table>
+
+## 🧰 Technologies I use
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,redux,python,django,nodejs,java,php,cpp,cs,mongodb,mysql,firebase,bootstrap,git,github,tensorflow,pytorch&perline=7" alt="Technologies including HTML, CSS, JavaScript, TypeScript, React, Python, Django, Node.js, databases and machine learning tools" />
+</p>
+
+## 📊 GitHub at a glance
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=dikshantchitara&show_icons=true&hide_border=true&bg_color=0f172a&title_color=06b6d4&icon_color=38bdf8&text_color=e2e8f0&rank_icon=github" alt="Dikshant's GitHub statistics" height="180" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dikshantchitara&layout=compact&hide_border=true&bg_color=0f172a&title_color=06b6d4&text_color=e2e8f0" alt="Dikshant's most used languages" height="180" />
+</p>
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=dikshantchitara&theme=dark&hide_border=true&background=0f172a&ring=06b6d4&fire=38bdf8&currStreakLabel=e2e8f0" alt="Dikshant's GitHub contribution streak" />
+</p>
+
+## 🤝 Let’s connect
+
+<p align="center">
+  <a href="https://linkedin.com/in/dikshantchitara"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+  <a href="https://instagram.com/dikshant.27"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" /></a>
+  <a href="https://github.com/dikshantchitara"><img src="https://img.shields.io/badge/GitHub-111827?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" /></a>
+</p>
+
+<p align="center">
+  <i>“The best way to predict the future is to build it.”</i>
+</p>
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:06b6d4,50:2563eb,100:0f172a&height=100&section=footer" alt="" width="100%" />
+</p>
